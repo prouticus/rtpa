@@ -85,6 +85,13 @@ form {
 	}
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 .button a, input[type="submit"], input[type="text"] {
 	border: 0;
 	padding: 15px 40px;
