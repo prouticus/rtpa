@@ -9,7 +9,7 @@ google_analytics_key:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: We target basic needs like Food, Shelter, Clothes, Healthcare and Education with Love and Prosperity as we share the amazing gospel of Christ Jesus.
-author:
+author: Dave Prout
   name:
   email:
   twitter: # twitter username without the @ symbol
