@@ -53,7 +53,11 @@ defaults:
       layout: "default"
 
 donation_embed: '<script src="https://donorbox.org/widget.js" paypalExpress="false"></script><iframe allowpaymentrequest="" frameborder="0" height="900px" name="donorbox" scrolling="no" seamless="seamless" src="https://donorbox.org/embed/winter-impact-2020" style="max-width: 500px; min-width: 250px; max-height:none!important" width="100%"></iframe>'
-newsletter_action: "//your-mailchimp-action-url.com"
+newsletter_action: "https://rescuethepooramerica.us2.list-manage.com/subscribe/post?u=91923c67d03ce07a870b8c994&amp;id=63155e71a1"
+
+
+
+
 
 plugins:
   - jekyll-sitemap
