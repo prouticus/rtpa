@@ -1,9 +1,9 @@
 # ----
 # Site
 
-title: Cause Template
-url: https://clean-oryx.cloudvent.net
-baseurl:
+title: Rescue The Poor America
+url: https://www.rescuethepooramerica.com/index.html
+baseurl: https://www.rescuethepooramerica.com/
 google_analytics_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
@@ -14,7 +14,7 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Cause Template
+  name: Rescue The Poor America
   links:
     - https://github.com/CloudCannon/cause-jekyll-template
 
