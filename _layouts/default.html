@@ -35,10 +35,11 @@
 		
 			<div>
 				<h1 class="editable">
-					<p style="text-align:center">Rescue The Poor America <a target="_blank" href="https://www.guidestar.org/profile/82-1475689"><img src="{{ site.baseurl }}/images/Guidestar_platinum.png" alt="guidestar_logo" /></a></p>
+					<a class="cc-active" href=""> </a>
+					<p style="text-align:center">Rescue The Poor America <a target="_blank" href="https://www.guidestar.org/profile/82-1475689"><img alt="guidestar_logo" src="/images/Guidestar_platinum.png" /></a></p>
 				</h1>
 			</div>
-		</nav>
+		</a></div></nav>
 		<div class="content">
 			{{ content }}
 		</div>
@@ -54,8 +55,8 @@
 					<address>
 						<a href="https://www.google.com/maps/place/{{ site.data.company.address | url_encode }}">
 							{% include icons/footer.html icon="place" %} {{ site.data.company.address }}
-						</a>
-					</address>
+						
+					
 					-->
 					<p class="email">
 						<a href="mailto:{{ site.data.company.email }}">
@@ -66,8 +67,8 @@
 					<p class="phone">
 						<a href="tel:{{ site.data.company.phone | replace: ' ', '-' }}">
 							{% include icons/footer.html icon="phone" %} {{ site.data.company.phone }}
-						</a>
-					</p>
+						
+					<p></p>
 					-->
 				</div>
 
@@ -81,7 +82,7 @@
 					<!--
 					<a class="twitter" href="https://twitter.com/{{ site.data.company.twitter }}">
 						{% include icons/social-media.html social_icon="twitter" %}
-					</a>
+					
 					<a class="youtube" href="https://youtube.com/{{ site.data.company.youtube }}">
 						{% include icons/social-media.html social_icon="youtube" %}
 					</a>
